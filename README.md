@@ -1,4 +1,4 @@
-#NGin
+# NGin
 
 ## Description
 A project to create a 3D simulation and trajectory plotting from video input.
